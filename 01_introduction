@@ -1,0 +1,11 @@
+# Git Initial Configuration
+
+## Instructions
+
+1. Open Git Bash
+2. `git config --global user.name "Andrei.Popescu"`  
+   - This command sets the global username for Git to "Andrei.Popescu".
+3. `git config --global user.email "Andrei.Popescu@gmail.com"`  
+   - This command sets the global email address for Git to "Andrei.Popescu@gmail.com".
+4. `git config --global --list`  
+   - This command displays a list of all the global configuration settings currently set in Git.
